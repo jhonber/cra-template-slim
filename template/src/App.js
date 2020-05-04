@@ -4,7 +4,7 @@ import './App.css'
 function App () {
   return (
     <div className='App'>
-      cra-template-slim
+      <h1>cra-template-slim</h1>
     </div>
   )
 }
