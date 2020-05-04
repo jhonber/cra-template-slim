@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-slim",
+  "version": "1.0.0",
+  "description": "Basic template for CRA",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonber/cra-template-slim.git"
+  },
+  "keywords": [
+    "cra",
+    "template"
+  ],
+  "author": "Jhon Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonber/cra-template-slim/issues"
+  },
+  "homepage": "https://github.com/jhonber/cra-template-slim#readme",
+  "dependencies": {
+    "standard": "^14.3.3"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
