@@ -1,6 +1,6 @@
 {
   "name": "cra-template-slim",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic template for CRA",
   "main": "template.json",
   "scripts": {
