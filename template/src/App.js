@@ -1,10 +1,9 @@
 import React from 'react'
-import './App.css'
 
 function App () {
   return (
-    <div className='App'>
-      <h1>cra-template-slim</h1>
+    <div>
+      <h2>cra-template-slim</h2>
     </div>
   )
 }
